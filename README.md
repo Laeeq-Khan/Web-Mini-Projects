@@ -2,10 +2,11 @@
 
 **This repo contain 14 Mini web project**
 
-**Front End : HTML, CSS, Bootstrap, Javascript, Jquery**
-**Backend : PHP, MySql**
+**Front End : **HTML, CSS, Bootstrap, Javascript, Jquery****
 
-- Projects names:
+**Backend : **PHP, MySql
+
+** Projects names:** :smile:
 - Card Website
 - Course Portal Website
 - Dewo Bus System Online Ticketing
